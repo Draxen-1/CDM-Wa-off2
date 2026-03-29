@@ -1,0 +1,67 @@
+config.txt
+
+
+
+{
+  "version": "3.0.0",
+  "developer": "SKY PLUG CDM",
+  "tool_name": "CDM 503 NEO ULTRA",
+  "settings": {
+    "max_threads": 50,
+    "batch_size": 10,
+    "ultra_mode": true,
+    "enable_logging": true,
+    "enable_animation": true,
+    "typing_speed": 0.01,
+    "default_spam_count": 100,
+    "max_spam_count": 10000
+  },
+  "delays": {
+    "min_delay": 0.5,
+    "max_delay": 1.5,
+    "batch_delay": 0.1
+  },
+  "messages": {
+    "file": "spam.txt",
+    "default_messages": [
+      "🔥 CDM503 🔥",
+      "⚡ CDM Tech ⚡",
+      "💀 Sky Plug CDM 💀",
+      "👑 Le Génie Des Codes 👑",
+      "🚀 CDM503 NEO ULTRA 🚀",
+      "💎 SKY PLUG CDM - MASTER 💎",
+      "🎯 CDM TECH - POWER MODE 🎯",
+      "🌟 Le Génie Des Codes - 2025 🌟"
+    ]
+  },
+  "performance": {
+    "cache_enabled": true,
+    "parallel_processing": true,
+    "queue_size": 100,
+    "timeout_seconds": 5
+  },
+  "security": {
+    "rate_limit_detection": true,
+    "auto_slow_down": true,
+    "max_failures": 10
+  },
+  "ui": {
+    "colors": true,
+    "progress_bar_width": 60,
+    "show_peak_speed": true,
+    "show_average_speed": true,
+    "rainbow_banner": true
+  },
+  "paths": {
+    "log_file": "logs.txt",
+    "messages_file": "spam.txt",
+    "backup_folder": "backups"
+  },
+  "last_used": {
+    "phone": "",
+    "count": 100,
+    "min_delay": 0.5,
+    "max_delay": 1.5,
+    "timestamp": null
+  }
+}
