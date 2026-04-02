@@ -2,7 +2,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FFB3&height=250&section=header&text=CDM-WA-OFF2&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Sky%20Plug%20CDM&descAlignY=55&descSize=18"/>
 </p>
+<p align="center">
+  <img src="https://files.catbox.moe/lk03mk.png" alt="CDM TECH 503" width="600">
+</p>
 
+<p align="center">
+  <strong style="color:#00FFCC;">CDM TECH 503 — CYBER LAB • ELITE OPS</strong>
+</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&size=22&center=true&vCenter=true&width=600&lines=Digital+Power+%7C+CDM+TECH;Automation+%7C+Performance+%7C+Strategy;Sky+Plug+CDM+-+The+Code+Mind"/>
 </p>
